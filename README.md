@@ -49,14 +49,7 @@ Previously I have worked for:
 - DeepLearning
 - NLP/Chatbots
 - Cloud Platforms: GCP/Azure
-
-### Skills for 2022 Target
-
-- HTML
-- CSS
-- JS
-- D3
-- Deployment
+- GenAI (2024 - Onwards)
 
 ### Open-source
 
